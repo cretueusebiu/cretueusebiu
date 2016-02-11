@@ -17,12 +17,14 @@ permalink: /work/
 
 ## Open Source
 - [__FileUpload__](https://github.com/hazzardweb/fileupload) - PHP file uploader
+- [__HazzardWeb Docs__](https://github.com/hazzardweb/docs.hazzardweb.com) - Documentation tool
+- [__Laravel Elixir Roullup__](https://www.npmjs.com/package/laravel-elixir-rollup) - Extension for Laravel Elixir
 
 ## School Projects
-- __SQL Wars__ - platform for testing students
-- __Payword__ - micropayment scheme 
-- __DominoX__ - dominoes game
-- __Task Manager__ - Android app
+- [__SQL Wars__](https://github.com/cretueusebiu/sqlwars) - platform for testing students
+- [__Payword__](https://github.com/cretueusebiu/payword) - micropayment scheme 
+- [__DominoX__](https://github.com/edcoreweb/dominox) - dominoes game
+- [__Task Manager__](https://github.com/cretueusebiu/taskmanager) - Android app
 
 ## Personal Projects
 - __E-Learning Plus__ - educational platform
