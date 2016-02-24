@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm primarily a PHP developer, but I also work on projects that involve a lot of JavaScript.
+I’m a freelance web developer and I work mostly with PHP and JavaScript.
 
-I have a website called [HazzardWeb](http://hazzardweb.com) where I create and maintain scripts that I sell on the [Envato Market](http://codecanyon.net/).
+I have a website called [HazzardWeb](http://hazzardweb.com) where I create and maintain scripts for the [Envato Market](http://codecanyon.net/).
 
 __Top Skills:__ 
 
