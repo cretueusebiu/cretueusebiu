@@ -16,9 +16,9 @@ permalink: /work/
 - [__Stefan cel Mare__](http://cnstefancelmare.ro/?pagina=61) - high school website
 
 ## Open Source
-- [__FileUpload__](https://github.com/hazzardweb/fileupload) - PHP file uploader
 - [__HazzardWeb Docs__](https://github.com/hazzardweb/docs.hazzardweb.com) - Documentation tool
 - [__Laravel Elixir Roullup__](https://www.npmjs.com/package/laravel-elixir-rollup) - Extension for Laravel Elixir
+- [__Google 2FA__](https://github.com/cretueusebiu/laravel-spark-google2fa) & [__Camera__](https://github.com/cretueusebiu/laravel-spark-camera) for Laravel Spark
 
 ## School Projects
 - [__SQL Wars__](https://github.com/cretueusebiu/sqlwars) - platform for testing students
