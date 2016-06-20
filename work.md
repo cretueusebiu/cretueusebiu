@@ -6,7 +6,7 @@ permalink: /work/
 
 ## Commercial Work
 - [__EasyLogin Pro__](https://demo.hazzardweb.com/easylogin-pro) - User membership system
-- [__Filepicker__](https://demo.hazzardweb.com/filepicker) - Multi file uploader
+- [__Filepicker__](https://demo.hazzardweb.com/filepicker2) - Multi file uploader
 - [__Imagepicker__](https://demo.hazzardweb.com/imagepicker) - Image uploader 
 - [__Ajax Comment System__](https://demo.hazzardweb.com/ajax-comment-system) (w/[Laravel port](http://acs-laravel.demo.hazzardweb.com))
 
