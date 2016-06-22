@@ -16,5 +16,7 @@ __Top Skills:__
 - HTML, CSS, LESS
 - Linux, Apache, Nginx, Git 
 - RESTful API
+- Web Application Security
+- Software Testing
 - Java, C/C++
 - Bug fixing, Support
