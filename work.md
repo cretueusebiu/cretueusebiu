@@ -12,7 +12,7 @@ permalink: /work/
 
 ## Volunteer Work
 - [__FII Practic__](http://web.archive.org/web/20160403122134/http://fiipractic.asii.ro/) - training platform
-- __FII BD__ - platform for testing students
+- [__FII BD__](http://imgur.com/a/fXh3H) - platform for testing students
 - [__Stefan cel Mare__](http://cnstefancelmare.ro/?pagina=61) - high school website
 
 ## Open Source
